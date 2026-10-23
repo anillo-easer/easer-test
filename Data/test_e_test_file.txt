@@ -1,0 +1,3 @@
+hi this is a test file to test the GitHub connection update on the proyecto easer page.
+
+feel free to delete once test has passed.

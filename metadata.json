@@ -1,0 +1,39 @@
+{
+  "schema": "easer-project/3",
+  "id": "p_mvkzrxda7q0qpq",
+  "title": "TEST",
+  "slug": "test",
+  "projectType": "research",
+  "description": "test description goes here",
+  "purpose": "test purpose goes here.",
+  "authors": [
+    {
+      "name": "easer.data",
+      "email": "easer.data@gmail.com",
+      "orcid": ""
+    }
+  ],
+  "institutions": [
+    {
+      "name": "Universidad de Concepción"
+    }
+  ],
+  "contact": {
+    "name": "easer.data",
+    "email": "easer.data@gmail.com"
+  },
+  "keywords": [],
+  "license": null,
+  "version": 1,
+  "publications": [],
+  "resources": [],
+  "files": [
+    {
+      "name": "test file.txt",
+      "category": "dataset",
+      "path": "Data/test_e_test_file.txt"
+    }
+  ],
+  "publishedAt": "2026-10-23T14:33:15.804Z",
+  "source": "easer-platform"
+}
